@@ -1,0 +1,25 @@
+{
+  "name": "arproapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/strapi": "^0.3.1",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.18.1",
+    "nuxt": "^2.15.8",
+    "vue-backtotop": "^1.6.1",
+    "vue-carousel": "^0.18.0",
+    "vue-cool-lightbox": "^2.7.4"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.42.1",
+    "sass-loader": "^10.2.0"
+  }
+}
